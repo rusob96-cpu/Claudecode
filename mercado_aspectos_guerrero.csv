@@ -1,13 +1,13 @@
 ﻿pagina;objeto;vendedor;yang;won;bonus;tiempo_restante
-1;Guja dentada+;GambitOh;9999999;0;;
+1;Guja dentada+;GambitOh;9999999;0;Fuerza contra Misticos +6% / Prob. golpes criticos +10%;3d 22h
 1;Espada de Heraldo fatal+;Corona;15000000;0;Prob. retardacion 2% / Prob. golpes criticos +10%;7d 8h
 1;Espada de Heraldo fatal+;KinQ;18888888;0;Fuerza contra Nomuerto +6% / Veloc. movimiento 4%;7d 2h
 1;Espada dentada+;Sd3Lost;19999999;0;Fuerza contra Demonio +20% / Prob. retardacion 5%;5d 16h
 1;Espada dentada+;Kreatlv;22222222;0;Fuerza contra Demonio +20% / Destreza +6;3d 15h
 1;Espada de Heraldo fatal+;Tengen;23333333;0;Fuerza contra Orcos +4% / Fuerza contra Demonio +20%;5d 23h
-1;Espada de Heraldo fatal+;Tonchy;24000000;0;Fuerza contra Nomuerto +20% / Prob. golpes criticos +10%;
+1;Espada de Heraldo fatal+;Tonchy;24000000;0;Fuerza contra Nomuerto +20% / Prob. golpes criticos +10%;3d 11h
 1;Espada de Heraldo fatal+;Malkucken;24444444;0;Fuerza contra Demonio +20% / Fuerza contra Misticos +6%;
-1;Mandoble de Heraldo fatal+;Farmer;24499999;0;;
+1;Mandoble de Heraldo fatal+;Farmer;24499999;0;Max. SP +80 / Fuerza contra Demonio +20% (tooltip parcial);
 1;Mandoble de Heraldo fatal+;AntharosVK;24999999;0;;
 1;Espada de Heraldo fatal+;AntharosVK;24999999;0;;
 2;Espada dentada+;TyLee;24999999;0;Fuerza contra Demonio +20% / Defensa Espada 4%;7d 20h
