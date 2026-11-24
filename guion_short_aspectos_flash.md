@@ -1,32 +1,24 @@
-# Guion de voz – Short "Aspectos de arma en Flash"
+# Guion de voz (ajustado al video)
 
-**Video:** `short_aspectos_flash.mp4` (vertical 9:16, 43,6 s, sin audio).
-Grabá tu voz leyendo el guion y pasamela; yo la monto sobre el video.
+**Video:** `short_aspectos_flash.mp4` (43,6 s). Cada frase está medida para entrar en su tramo hablando a ritmo normal-rápido (unas 3 palabras por segundo).
 
-| Tiempo | En pantalla | Lo que decís |
-|---|---|---|
-| 0:00 – 0:02,5 | ¿Cuánto vale un aspecto de arma en Flash? | "¿Cuánto vale un aspecto de arma en Flash?" |
-| 0:02,5 – 0:04 | **15M** – ¿Ganga? Sus bonus son flojos | "Esta sale quince millones. ¿Ganga? No: tiene bonus flojos." |
-| 0:04 – 0:10,4 | **20 – 23M** – Con Fuerza contra Demonio +20 % | "Con Fuerza contra Demonio más veinte por ciento, arrancan en veinte, veintitrés millones." |
-| 0:10,4 – 0:17,4 | **25 – 30M** – Mirá cuántos días le quedan | "Segunda página: de veinticinco a treinta millones. Y fijate cuántos días le quedan." |
-| 0:17,4 – 0:23,4 | **40 – 50M** – Mejor bonus y más duración | "Tercera página: cuarenta a cincuenta millones, por mejores bonus y más duración." |
-| 0:23,4 – 0:28,6 | **60 – 79M** – Los más caros: hasta 14 días | "Y arriba de todo, de sesenta a casi ochenta millones. Espadas de hasta catorce días." |
-| 0:28,6 – 0:32,6 | **7 Won = 700M** – Más de 8 veces más caro por día | "Las de Won: un Won son cien millones. Siete Won, setecientos. Carísimas." |
-| 0:32,6 – 0:40,6 | **En promedio 4M por día** / Comprá: menos de 3M por día / Dejalo: más de 6M por día / Ej.: 30M por 11 días = buena compra, 24M por 3 días = caro | "En promedio sale cuatro millones por día de duración. Menos de tres, comprá. Más de seis, dejalo. Treinta por once días, bien; veinticuatro por tres, caro." |
-| 0:40,6 – 0:43,6 | Precios de Flash cada día – Seguime para no pagar de más | "Seguime: precios de Flash todos los días." |
+| Tiempo | Dura | En pantalla | Lo que decís | Palabras |
+|---|---|---|---|---|
+| 0:00 – 0:02,5 | 2.5 s | Título: ¿Cuánto vale un aspecto de arma en Flash? | "¿Cuánto vale un aspecto en Flash?" | 6 (cabe hasta 7) |
+| 0:02,5 – 0:04 | 1.5 s | 15M – ¿Ganga? Sus bonus son flojos | "Quince millones. ¿Ganga? No." | 4 (cabe hasta 4) |
+| 0:04 – 0:10,4 | 6.4 s | 20 – 23M – Con Fuerza contra Demonio +20 % | "Tiene bonus flojos. Con Fuerza contra Demonio más veinte, arrancan en veinte millones." | 13 (cabe hasta 19) |
+| 0:10,4 – 0:17,4 | 7.0 s | 25 – 30M – Mirá cuántos días le quedan | "Segunda página: de veinticinco a treinta millones. Fijate cuántos días le quedan: ahí está la clave." | 16 (cabe hasta 21) |
+| 0:17,4 – 0:23,4 | 6.0 s | 40 – 50M – Mejor bonus y más duración | "Tercera: de cuarenta a cincuenta millones, con mejores bonus y más duración." | 12 (cabe hasta 18) |
+| 0:23,4 – 0:28,6 | 5.2 s | 60 – 79M – Los más caros: hasta 14 días | "Arriba de todo, de sesenta a casi ochenta millones, con hasta catorce días." | 13 (cabe hasta 15) |
+| 0:28,6 – 0:32,6 | 4.0 s | 7 Won = 700M – Más de 8 veces más caro por día | "Las de Won: un Won son cien millones. Siete, setecientos." | 10 (cabe hasta 12) |
+| 0:32,6 – 0:36,8 | 4.2 s | En promedio 4M por día de duración | "En promedio, un aspecto sale cuatro millones por día de duración." | 11 (cabe hasta 12) |
+| 0:36,8 – 0:40,6 | 3.8 s | Comprá: menos de 3M/día · Dejalo: más de 6M/día · Ej.: 30M por 11 días = bien, 24M por 3 días = caro | "Menos de tres, comprá. Más de seis, dejalo." | 8 (cabe hasta 11) |
+| 0:40,6 – 0:43,6 | 3.0 s | Seguime para no pagar de más | "Seguime: precios de Flash todos los días." | 7 (cabe hasta 9) |
+
+Total: 100 palabras.
 
 ## Texto corrido
-¿Cuánto vale un aspecto de arma en Flash? Esta sale quince millones. ¿Ganga? No: tiene bonus flojos. Con Fuerza contra Demonio más veinte por ciento, arrancan en veinte, veintitrés millones. Segunda página: de veinticinco a treinta millones. Y fijate cuántos días le quedan. Tercera página: cuarenta a cincuenta millones, por mejores bonus y más duración. Y arriba de todo, de sesenta a casi ochenta millones. Espadas de hasta catorce días. Las de Won: un Won son cien millones. Siete Won, setecientos. Carísimas. En promedio sale cuatro millones por día de duración. Menos de tres, comprá. Más de seis, dejalo. Treinta por once días, bien; veinticuatro por tres, caro. Seguime: precios de Flash todos los días.
+¿Cuánto vale un aspecto en Flash? Quince millones. ¿Ganga? No. Tiene bonus flojos. Con Fuerza contra Demonio más veinte, arrancan en veinte millones. Segunda página: de veinticinco a treinta millones. Fijate cuántos días le quedan: ahí está la clave. Tercera: de cuarenta a cincuenta millones, con mejores bonus y más duración. Arriba de todo, de sesenta a casi ochenta millones, con hasta catorce días. Las de Won: un Won son cien millones. Siete, setecientos. En promedio, un aspecto sale cuatro millones por día de duración. Menos de tres, comprá. Más de seis, dejalo. Seguime: precios de Flash todos los días.
 
-## De dónde sale la regla (24/11/2026, Guerrero, aspectos de arma)
-Precio dividido por los días que le quedan, en 19 ofertas en yang con el tiempo visible:
-- **Mediana: 3,9M por día** (media 4,4M). Una oferta típica: unos 30M por unos 8 días.
-- **Mejor precio por día:** Corona 2,0M (15M, 7d, bonus flojos), 8ight9ine 2,6M (27,8M, 10d), KinQ 2,7M (18,9M, 7d), PokaYoka 2,7M (30M, 11d, Demonio +20 %), TyLee 3,2M (25M, 7d, Demonio +20 %), MateosSura 3,4M (40M, 11d, Demonio +20 %).
-- **Peor precio por día:** BazarMain 9,5M (40M, 4d), Tonchy 6,9M (24M, 3d), Junji 6,4M (69,9M, 11d), Kreatlv 6,1M (22,2M, 3d), Gepanzerter 6,0M (33,3M, 5d).
-- **En Won (1 Won = 100M de yang):** NoGuard 7 Won = 700M por 22 días → 31M por día. YaraiSupto 7 Won = 700M por 10 días → 64M por día. Entre 8 y 16 veces la mediana.
-- Limitación: son 19 ofertas de una sola tarde y la regla no pondera los bonus.
-
-## Para publicar
-- **Título:** ¿Cuánto vale un aspecto de arma en Metin2 Flash?
-- **Descripción:** Revisé todo el mercado de aspectos de guerrero en Flash. Precio por día de duración: cuándo comprar y cuándo no.
-- **Hashtags:** #metin2 #metin2flash #metin2es #gaming #mmorpg #metin2yang
+## Si te queda corto o largo
+No hace falta que lo leas perfecto: cuando me pases el audio, yo muevo los cortes y los rótulos del video para que coincidan con tu voz.
